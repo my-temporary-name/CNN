@@ -3,5 +3,5 @@ streamlit
 numpy
 sklearn
 matplotlib
-itertools
+more-itertools
 torchvision
