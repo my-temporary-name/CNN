@@ -1,7 +1,7 @@
 torch
 streamlit
 numpy
-sklearn
+scikit-learn
 matplotlib
 more-itertools
 torchvision
